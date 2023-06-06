@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="epub-id">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title>Where the Wild Things Are</dc:title>
+
+        <dc:language>en</dc:language>
+
+        <meta property="dcterms:modified">2023-03-27T0414:30:13Z</meta>
+
+        <dc:description>Max, a wild and naughty boy, is sent to bed without his supper by his exhausted mother. In his room, he imagines sailing far away to a land of Wild Things. Instead of eating him, the Wild Things make Max their king.</dc:description>
+        
+        <dc:creator id="creator">Maurice Sendak</dc:creator>
+        <meta refines="#creator" property="file-as">Sednek, Maurice</meta>
+
+        <dc:creator id="illustrator">Maurice Sendak</dc:creator>
+        <meta refines="#illustrator" property="file-as">Sednek, Maurice</meta>
+        
+        <dc:identifier id="epub-id">isbn:9780099408390</dc:identifier>
+        
+        <dc:publisher> Red Fox,London</dc:publisher>
+
+        <dc:date>1963-04-09</dc:date>
+
+        <dc:subject id="subject01">Fiction / Action &amp; Adventure</dc:subject>
+        <meta refines="#subject01" property="authority">BISAC</meta>
+        <meta refines="#subject01" property="term">FIC002000</meta>
+  </metadata>
+  <manifest>
+      <item id="str0" href="xhtml/page0.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str00" href="xhtml/page00.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str1" href="xhtml/page1.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str2" href="xhtml/page2.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str3" href="xhtml/page3.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str4" href="xhtml/page4.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str5" href="xhtml/page5.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str6" href="xhtml/page6.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str7" href="xhtml/page7.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str8" href="xhtml/page8.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str9" href="xhtml/page9.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str10" href="xhtml/page10.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str11" href="xhtml/page11.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str12" href="xhtml/page12.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str13" href="xhtml/page13.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str14" href="xhtml/page14.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str15" href="xhtml/page15.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str16" href="xhtml/page16.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str17" href="xhtml/page17.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str18" href="xhtml/page18.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str19" href="xhtml/page19.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str20" href="xhtml/page20.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str21" href="xhtml/page21.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str22" href="xhtml/page22.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str23" href="xhtml/page23.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str24" href="xhtml/page24.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str25" href="xhtml/page25.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str26" href="xhtml/page26.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str27" href="xhtml/page27.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str28" href="xhtml/page28.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str29" href="xhtml/page29.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str30" href="xhtml/page30.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str31" href="xhtml/page31.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str32" href="xhtml/page32.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str33" href="xhtml/page33.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str34" href="xhtml/page34.xhtml" media-type="application/xhtml+xml"/> 
+      <item id="str35" href="xhtml/page35.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str36" href="xhtml/page36.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str37" href="xhtml/page37.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str38" href="xhtml/page38.xhtml" media-type="application/xhtml+xml"/>
+      <item id="str39" href="xhtml/page39.xhtml" media-type="application/xhtml+xml"/>
+      
+      <item id="s2" href="xhtml/images/image2.jpg" media-type="image/jpeg"/>
+      <item id="s3" href="xhtml/images/image3.jpg" media-type="image/jpeg"/>
+      <item id="s4" href="xhtml/images/image4.jpg" media-type="image/jpeg"/>
+      <item id="s5" href="xhtml/images/image5.jpg" media-type="image/jpeg"/>
+      <item id="s6" href="xhtml/images/image6.jpg" media-type="image/jpeg"/>
+      <item id="s7" href="xhtml/images/image7.jpg" media-type="image/jpeg"/>
+      <item id="s8" href="xhtml/images/image8.jpg" media-type="image/jpeg"/>
+      <item id="s9" href="xhtml/images/image9.jpg" media-type="image/jpeg"/>
+      <item id="s10" href="xhtml/images/image10.jpg" media-type="image/jpeg"/>
+      <item id="s11" href="xhtml/images/image11.jpg" media-type="image/jpeg"/>
+      <item id="s12" href="xhtml/images/image12.jpg" media-type="image/jpeg"/>
+      <item id="s13" href="xhtml/images/image13.jpg" media-type="image/jpeg"/>
+      <item id="s14" href="xhtml/images/image14.jpg" media-type="image/jpeg"/>
+      <item id="s15" href="xhtml/images/image15.jpg" media-type="image/jpeg"/>
+      <item id="s16" href="xhtml/images/image16.jpg" media-type="image/jpeg"/>
+      <item id="s17" href="xhtml/images/image17.jpg" media-type="image/jpeg"/>
+      <item id="s18" href="xhtml/images/image18.jpg" media-type="image/jpeg"/>
+      <item id="s19" href="xhtml/images/image19.jpg" media-type="image/jpeg"/>
+      <item id="s20" href="xhtml/images/image20.jpg" media-type="image/jpeg"/>
+      <item id="s21" href="xhtml/images/image21.jpg" media-type="image/jpeg"/>
+      <item id="s22" href="xhtml/images/image22.jpg" media-type="image/jpeg"/>
+      <item id="s23" href="xhtml/images/image23.jpg" media-type="image/jpeg"/>
+      <item id="s24" href="xhtml/images/image24.jpg" media-type="image/jpeg"/>
+      <item id="s25" href="xhtml/images/image25.jpg" media-type="image/jpeg"/>
+      <item id="s26" href="xhtml/images/image26.jpg" media-type="image/jpeg"/>
+      <item id="s27" href="xhtml/images/image27.jpg" media-type="image/jpeg"/>
+      <item id="s28" href="xhtml/images/image28.jpg" media-type="image/jpeg"/>
+      <item id="s29" href="xhtml/images/image29.jpg" media-type="image/jpeg"/>
+      <item id="s30" href="xhtml/images/image30.jpg" media-type="image/jpeg"/>
+      <item id="s31" href="xhtml/images/image31.jpg" media-type="image/jpeg"/>
+      <item id="s32" href="xhtml/images/image32.jpg" media-type="image/jpeg"/>
+      <item id="s33" href="xhtml/images/image33.jpg" media-type="image/jpeg"/>
+      <item id="s34" href="xhtml/images/image34.jpg" media-type="image/jpeg"/>
+
+
+      <item href="xhtml/nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+      <item href="xhtml/styles.css" id="css" media-type="text/css"/>
+  </manifest>
+  <spine>
+    <itemref idref="str0"/>
+    <itemref idref="str00"/>
+    <itemref idref="str1"/>
+    <itemref idref="str2"/>
+    <itemref idref="str3"/>
+    <itemref idref="str4"/>
+    <itemref idref="str5"/>
+    <itemref idref="str6"/>
+    <itemref idref="str7"/>
+    <itemref idref="str8"/>
+    <itemref idref="str9"/>
+    <itemref idref="str10"/>
+    <itemref idref="str11"/>
+    <itemref idref="str12"/>
+    <itemref idref="str13"/>
+    <itemref idref="str14"/>
+    <itemref idref="str15"/>
+    <itemref idref="str16"/>
+    <itemref idref="str17"/>
+    <itemref idref="str18"/>
+    <itemref idref="str19"/>
+    <itemref idref="str20"/>
+    <itemref idref="str21"/>
+    <itemref idref="str22"/>
+    <itemref idref="str23"/>
+    <itemref idref="str24"/>
+    <itemref idref="str25"/>
+    <itemref idref="str26"/>
+    <itemref idref="str27"/>
+    <itemref idref="str28"/>
+    <itemref idref="str29"/>
+    <itemref idref="str30"/>
+    <itemref idref="str31"/>
+    <itemref idref="str32"/>
+    <itemref idref="str33"/>
+    <itemref idref="str34"/>
+    <itemref idref="str35"/>
+    <itemref idref="str36"/>
+    <itemref idref="str37"/>
+    <itemref idref="str38"/>
+    <itemref idref="str39"/>
+
+    <itemref idref="nav"/>
+    
+  </spine>
+</package>
