@@ -1,0 +1,105 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+    <body>
+           <seq id="id1" epub:textref="page1.xhtml#s001" epub:type="bodymatter chapter">
+            <par id="s01">
+                <text src="page1.xhtml#s001"/>
+                <audio clipBegin="0:00:07.004690" clipEnd="0:00:11.094045" src="/audio/wtwta.mp3"/>
+            </par>
+        </seq>
+
+        <seq id="id2" epub:textref="page3.xhtml#s002" epub:type="bodymatter">
+            <par id="s02">
+                <text src="page3.xhtml#s002"/>
+                <audio clipBegin="0:00:12.222290" clipEnd="0:00:13.122559" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+
+        <seq id="id3" epub:textref="page5.xhtml#s003" epub:type="bodymatter">
+            <par id="s03">
+                <text src="page5.xhtml#s003"/>
+                <audio clipBegin="0:00:14.411040" clipEnd="0:00:17.239215" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+
+        <seq id="id4" epub:textref="page5.xhtml#s004" epub:type="bodymatter">
+            <par id="s04">
+                <text src="page5.xhtml#s004"/>
+                <audio clipBegin="0:00:17.617025" clipEnd="0:00:20.240104" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+
+        <seq id="id5" epub:textref="page5.xhtml#s005" epub:type="bodymatter">
+            <par id="s05">
+                <text src="page5.xhtml#s005"/>
+                <audio clipBegin="0:00:20.736211" clipEnd="0:00:23.682514" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+        <seq id="id6" epub:textref="page7.xhtml#s006" epub:type="bodymatter">
+            <par id="s06">
+                <text src="page7.xhtml#s006"/>
+                <audio clipBegin="0:00:25.361754" clipEnd="0:00:29.208740" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+        <seq id="id7" epub:textref="page9.xhtml#s007" epub:type="bodymatter">
+            <par id="s07">
+                <text src="page9.xhtml#s007"/>
+                <audio clipBegin="0:00:30.430006" clipEnd="0:00:31.758132" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+        <seq id="id8" epub:textref="page11.xhtml#s008" epub:type="bodymatter">
+            <par id="s08">
+                <text src="page11.xhtml#s008"/>
+                <audio clipBegin="0:00:32.699382" clipEnd="0:00:36.531102" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+        <seq id="id9" epub:textref="page11.xhtml#s009" epub:type="bodymatter">
+            <par id="s09">
+                <text src="page11.xhtml#s009"/>
+                <audio clipBegin="0:00:36.531102" clipEnd="0:00:39.172089" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+        <seq id="id10" epub:textref="page13.xhtml#s010" epub:type="bodymatter">
+            <par id="s010">
+                <text src="page13.xhtml#s010"/>
+                <audio clipBegin="0:00:40.683404" clipEnd="0:00:44.240340" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+        <seq id="id11" epub:textref="page13.xhtml#s011" epub:type="bodymatter">
+            <par id="s011">
+                <text src="page13.xhtml#s011"/>
+                <audio clipBegin="0:00:44.683049" clipEnd="0:00:47.125580" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+        <seq id="id12" epub:textref="page15.xhtml#s012" epub:type="bodymatter">
+            <par id="s012">
+                <text src="page15.xhtml#s012"/>
+                <audio clipBegin="0:00:48.194187" clipEnd="0:00:49.690237" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+        <seq id="id13" epub:textref="page15.xhtml#s013" epub:type="bodymatter">
+            <par id="s013">
+                <text src="page15.xhtml#s013"/>
+                <audio clipBegin="0:00:49.903958" clipEnd="0:00:51.415274" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+        <seq id="id14" epub:textref="page15.xhtml#s014" epub:type="bodymatter">
+            <par id="s014">
+                <text src="page15.xhtml#s014"/>
+                <audio clipBegin="0:00:52.224363" clipEnd="0:00:54.376843" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+        <seq id="id15" epub:textref="page17.xhtml#s015" epub:type="bodymatter">
+            <par id="s015">
+                <text src="page17.xhtml#s015"/>
+                <audio clipBegin="0:00:55.781298" clipEnd="0:00:58.376487" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+        <seq id="id16" epub:textref="page17.xhtml#s016" epub:type="bodymatter">
+            <par id="s016">
+                <text src="page17.xhtml#s016"/>
+                <audio clipBegin="0:00:58.651272" clipEnd="0:01:03.368410" src="audio/wtwta.mp3"/>
+            </par>
+        </seq>
+
+    </body>
+</smil>
